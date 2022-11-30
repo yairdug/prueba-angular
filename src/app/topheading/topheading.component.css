@@ -1,0 +1,19 @@
+.box
+{
+    padding: 10px 10px;
+}
+.box h5
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+.box a
+{
+    text-align: left;
+
+}
+.box p
+{
+    font-size: 10px;
+    text-align: justify;
+}
